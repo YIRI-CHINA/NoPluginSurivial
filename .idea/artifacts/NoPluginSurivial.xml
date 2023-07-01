@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NoPluginSurivial">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoPluginSurivial</output-path>
+    <root id="archive" name="NoPluginSurivial.jar">
+      <element id="module-output" name="NoPluginSurivial" />
+    </root>
+  </artifact>
+</component>
