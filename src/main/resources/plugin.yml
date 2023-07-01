@@ -2,7 +2,7 @@ name: NoPluginSurivial
 version: '${project.version}'
 main: cn.yirimc.nopluginsurivial.NoPluginSurivial
 api-version: '1.20'
-description: 羿日服务器基础插件.
+description: 羿日服务器基础插件。
 authors:
   - Z1SHU
   - 羿日中国
